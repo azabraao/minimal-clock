@@ -1,4 +1,4 @@
 # minimal-clock
-##Javascript30 day 2
+## Javascript30 day 2
 
 Part of Javascript30 challenge. 30 days of coding. Each day a project.
